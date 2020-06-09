@@ -37,7 +37,7 @@ class Schedule {
     private ArrayList<Integer> gantChart;
     private float burstAll;
     private Map<Integer, ArrayList<Process>> arrivals;
-
+System.out.println("eeeee");
     Schedule() {
         Scanner in = new Scanner(System.in);
 
