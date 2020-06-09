@@ -38,6 +38,7 @@ class Schedule {
     private float burstAll;
     private Map<Integer, ArrayList<Process>> arrivals;
 System.out.println("eeeee");
+    System.out.println("eeeee");System.out.println("eeeee");System.out.println("eeeee");
     Schedule() {
         Scanner in = new Scanner(System.in);
 
